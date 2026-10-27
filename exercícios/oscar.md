@@ -4,7 +4,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <img src="hierarquia.png" alt="Hierarquia" width="40%">
-  <img src="explicaçãodahierarquia.png" alt="Explicação da hierarquia" width="55%">
+  <img src="explicacaodahierarquia.png" alt="Explicação da hierarquia" width="55%">
 </div>
 
 <br><br>
