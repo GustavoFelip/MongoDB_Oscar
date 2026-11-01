@@ -25,7 +25,7 @@ Ou seja db(database) + registros(coleção) + find(método) + "categoria"(argume
 
 <br>
 
-<h2 align="center"> ### Parênteses `()` e chaves `{}` </h2>
+<h2 align="center"> Parênteses `()` e chaves `{}` </h2>
 
 ```javascript
 - Parênteses (): recebem os argumentos do método.
